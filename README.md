@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/khaled-mohamed-607618238/" target="_blank"><img src="https://img.shields.io/badge/-Khaled%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech
 ![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=Verilog)&nbsp;
 ![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=VHDL&logoColor=563D7C)&nbsp;
 

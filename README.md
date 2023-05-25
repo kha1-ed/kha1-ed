@@ -7,11 +7,19 @@
 </h3>
 
 
+
 - 🏢 I'm a FPGA design Engineer .
 - 👨‍💻 As a ECE student, I'm constantly learning and exploring new technologies to improve my skills.
 
 
 
+
+
+
+
 ### Connect with Me :
+
+
+
 
 <a href="https://www.linkedin.com/in/khaled-mohamed-607618238/" target="_blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png"/></a>

@@ -24,7 +24,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=Verilog)&nbsp;
-![VHDL](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=VHDL&logoColor=563D7C)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;

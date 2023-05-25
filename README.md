@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://gfycat.com/decimalaggressivegavial">
+<img width="300" align="right" src="https://gfycat.com/decimalaggressivegavial">
 
 <h3 align="center">
   Welcome to Khaled Mohamed's profile!

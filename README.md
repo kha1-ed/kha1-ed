@@ -14,4 +14,4 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/khaled-mohamed-607618238/" target="_blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif"/></a>
+<a href="https://www.linkedin.com/in/khaled-mohamed-607618238/" target="_blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png"/></a>
